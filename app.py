@@ -1,6 +1,6 @@
 
-def myfunction(string):
+def my_print_function(string):
     print(string)
 
 if __name__ == '__main__':
-    myfunction('Hello world!')
+    my_print_function('Hello world!')
